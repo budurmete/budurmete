@@ -1,14 +1,14 @@
 [![MasterHead](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcThiejhiczhhaTNqY2M1bG9vYWV4bXR6ZnVqd2F0OHd1M2Mydnk1MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)
 <h1 align="center">Hi 👋, I'm Mete Budur</h1>
-<h3 align="center">A passionate frontend developer from Türkiye</h3>
+<h3 align="center">A passionate developer from Türkiye</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=budurmete&label=Profile%20views&color=7bc93b&style=plastic" alt="budurmete" /> </p>
 
-- 🔭 I’m currently working on **Android (mobile) development**
+- 🔭 I’m currently working on **Developer**
 
-- 🌱 I’m currently learning **java,Kotlin**
+- 🌱 I’m currently learning **java,Kotlin,Flutter**
 
-- 💬 Ask me about **C#,SQL,kotlin**
+- 💬 Ask me about **C#,SQL,kotlin,Flutter**
 
 - 📫 How to reach me **budurmete@gmail.com**
 
